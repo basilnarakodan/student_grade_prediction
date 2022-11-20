@@ -4,7 +4,7 @@
 
 
 
-Student mark analysis and predictiO
+Student mark analysis and prediction
 
 
 
